@@ -18,3 +18,9 @@ Complete container byte recovery is verified; marker output semantics and payloa
 addresses remain unresolved. Neither diagnostic projection is a validated image;
 A2 architecture discovery remains gated pending coordinator review and independent
 marker handling evidence.
+
+**A1c:** [updater acquisition and parser-recovery assessment](reports/A1c-updater.md),
+with a [candidate/provenance ledger](../research/updater-artifacts.md). Bounded
+search recovered documentation and exact historical links, but no updater or
+second sample. Original-artifact regression still passes; marker semantics,
+payload boundaries and address mapping remain unknown. A2 is not ready.
