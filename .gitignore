@@ -1,0 +1,7 @@
+# Local recovered firmware and generated analyses
+work/
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+.env
