@@ -25,3 +25,10 @@ The recovered SXI is 56,009 bytes; SHA-256 **ead7034350cd72aa2a804b5897b377be53d
 
 ## Safety boundary
 Analysis and enumerating a disconnected heating controller are in scope. No device write, flash, unlocking, bypass of thermal/current/battery protections, or use on a live atomizer is part of the scaffold.
+
+## Encoding investigation
+
+[A1b](analysis/reports/A1b-encoding.md) verifies lossless SXI representation recovery
+and reproduces A1's full token counts. Marker semantics and payload address mapping
+remain unknown; the 32,711-byte and 32,397-byte projections are diagnostic only.
+A2 has not begun. See [offline tool usage](tools/README.md).

@@ -12,3 +12,9 @@
 **First worker:** [analysis/tasks/A1-sxi-container.md](tasks/A1-sxi-container.md).
 
 Parallel work is allowed for A3 as long as it is passive: enumeration or **offline** analysis of updater files. Never conflate a reported minimum output voltage with demonstrated closed-loop regulation at that voltage.
+
+**A1b:** [lossless SXI representation and marker investigation](reports/A1b-encoding.md).
+Complete container byte recovery is verified; marker output semantics and payload
+addresses remain unresolved. Neither diagnostic projection is a validated image;
+A2 architecture discovery remains gated pending coordinator review and independent
+marker handling evidence.
